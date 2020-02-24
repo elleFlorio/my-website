@@ -26,7 +26,8 @@ const Bio = () => {
           author
           social {
             twitter,
-            gitHub
+            gitHub,
+            linkedIn
           }
         }
       }
