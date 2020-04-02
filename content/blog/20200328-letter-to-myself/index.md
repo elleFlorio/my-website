@@ -1,10 +1,10 @@
 ---
 title: A letter to myself as a fresh software engineer
 date: "2020-03-28T16:30:00.000Z"
-description: "Dear Myself, these are some tips I wish someone has given me when I started my career. With love, (a more experienced) you."
+description: "Dear Self, these are some tips I wish someone has given me when I started my career. With love, (a more experienced) you."
 ---
 
-Dear Myself,
+Dear Self,
 
 You just graduated and you are ready to start your career in the IT field. I cannot spoiler anything, but I assure you it will be an interesting ride. I'm writing you this letter because I want to give you some advice that will help you be a better professional. Nothing you won't learn by yourself in the next few years, but it is something that I wish someone had told me when I started my career. They are not ordered by any means and are **all equally important**.
 

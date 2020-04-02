@@ -56,10 +56,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Powered by <strong>{author}</strong>. 
-        Computer Science PhD, passionate about Distributed Systems.
-        Functional Programming Enthusiast. 
-        Krav Maga black belt.
+        Powered by <strong>{author}</strong>.<br/>
+        Computer Science PhD. Passionate about Distributed Systems.<br/>
+        Half-stack developer. Data & ML lover. Krav Maga black belt.
         {` `}
         <p>
           <a href={`https://twitter.com/${social.twitter}`}> Twitter </a> | <a href={`https://github.com/${social.gitHub}`}> GitHub </a> | <a href={`https://www.linkedin.com/in/${social.linkedIn}`}> LinkedIn </a>
