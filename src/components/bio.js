@@ -61,7 +61,7 @@ const Bio = () => {
         Half-stack developer. Data & ML lover. Krav Maga black belt.
         {` `}
         <p>
-          <a href={`https://twitter.com/${social.twitter}`}> Twitter </a> | <a href={`https://github.com/${social.gitHub}`}> GitHub </a> | <a href={`https://www.linkedin.com/in/${social.linkedIn}`}> LinkedIn </a>
+          <a href={`https://twitter.com/${social.twitter}`}> Twitter </a> | <a href={`https://github.com/${social.gitHub}`}> GitHub </a> | <a href={`https://www.linkedin.com/in/${social.linkedIn}`}> LinkedIn </a> | <a href={`rss.xml`}> RSS </a>
         </p>
       </p>
     </div>
